@@ -74,7 +74,7 @@ int main() {
 
 ## Java Solution
 
-java
+```java
 
 import java.util.*;
 
@@ -101,14 +101,14 @@ public class Main {
     }
 
 }
-
+```
 
 
 
 
 ## Python Solution
 
-python
+```python
 
 def sum(a, b):
 
@@ -120,13 +120,13 @@ num1, num2 = map(int, input().split())
 
 print(sum(num1, num2))
 
-
+```
 
 
 
 ## JavaScript Solution
 
-javascript
+```javascript
 
 const readline = require('readline');
 
@@ -153,3 +153,4 @@ rl.on('line', (line) => {
 });
 
 
+```
